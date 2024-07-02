@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehanz&label=Profile%20views&color=0e75b6&style=flat" alt="nehanz" /> </p>
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Firebase**
 
 - 📫 How to reach me **nehannimsara0031029@gmail.com**
 
