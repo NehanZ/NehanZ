@@ -1,7 +1,7 @@
 <div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&width=1000&lines=I'm+Nehan+Wijayagunarathna;A+person+lost+somewhere+between+DevOps+and+cybersecurity" alt="Typing SVG" /></a><br><br>
 
-<img width="230" align="right" src="./images/tech.gif" alt="" style="border-radius:20px;" />
+
 
 </div>
 
